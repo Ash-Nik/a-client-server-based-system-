@@ -1,0 +1,1 @@
+First compile both codes then run surver2.java and on different compailer run client2.java and then implement the parimeters on gui of client and eceie the code on server.java . :)
